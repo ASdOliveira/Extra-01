@@ -1,0 +1,8 @@
+
+
+Loader -> service(logica de negócio) -- Consulta API            --> (json,REST)
+                                     -- Salva no DB (postgres)  --> (json,Context|DB)
+                                     -- Faz contas              --> (no tools)
+                                     -- Telegram                --> (tool do Telegram)
+
+                                                               -->  Console logger (e logger no DB)
