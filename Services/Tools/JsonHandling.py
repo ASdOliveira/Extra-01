@@ -7,3 +7,6 @@ import json
 
 def ToDict(InputString):
     return json.loads(InputString)
+
+#def toObject(InputString):
+    

@@ -1,0 +1,6 @@
+{
+    "API_BASE":"http://api.open-notify.org/iss-now.json",
+    "TELEGRAM_TOKEN":"1342715040:AAFiduuefV7q8KgPe3ROFE3LsT8UFv2Pg40",
+    "TELEGRAM_BOT_NAME":"AryssonTest_bot",
+    "TELEGRAM_CHAT_ID":"@aryssonchannel"    
+}
